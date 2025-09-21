@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "Apple Global Price",
+    "subtitle": "Compare Apple product prices worldwide"
+  },
+  "common": {
+    "title": "Apple Global Price",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "results": "results",
+    "showingResults": "Showing {{count}} results",
+    "selectAll": "Select All",
+    "clearAll": "Clear All",
+    "allSelected": "All selected",
+    "none": "None",
+    "values": "Values",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "ascending": "Ascending",
+    "descending": "Descending",
+    "clear": "Clear"
+  },
+  "header": {
+    "subtitle": "Compare Apple product prices worldwide"
+  },
+  "filters": {
+    "title": "Filters and Search",
+    "searchPlaceholder": "Search products, models, or countries...",
+    "product": "Product",
+    "model": "Model",
+    "storage": "Storage",
+    "country": "Country/Region",
+    "currency": "Currency",
+    "sortBy": "Sort By",
+    "allProducts": "All Products",
+    "allModels": "All Models",
+    "allStorage": "All Storage",
+    "allCountries": "All Countries",
+    "allCurrencies": "All Currencies",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "modelAsc": "Model: A-Z",
+    "modelDesc": "Model: Z-A",
+    "countryAsc": "Country: A-Z",
+    "clearFilters": "Clear Filters"
+  },
+  "secondaryFilters": {
+    "title": "Secondary Filters",
+    "priceSort": "Price Sort",
+    "superFilter": "Super Filter",
+    "totalPrice": "Total Price",
+    "taxRefundPrice": "Tax Refund Price",
+    "clear": "Clear",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+  "totalPrice": "Total Price",
+  "taxRefundPrice": "Tax Refund Price",
+  "productTable": {
+    "title": "Product Prices",
+    "model": "Model",
+    "storage": "Storage",
+    "netPrice": "Net Price",
+    "taxFees": "Tax Fees",
+    "totalPrice": "Total Price",
+    "currency": "Currency",
+    "launchDate": "Launch Date",
+    "country": "Country/Region",
+    "taxRefund": "Tax Refund",
+    "contributor": "Contributor",
+    "notes": "Notes",
+    "productNotes": "Product Notes",
+    "sortBy": "Sort By",
+    "ascending": "Ascending",
+    "descending": "Descending",
+    "tax": "Tax"
+  },
+  "exchangeRate": {
+    "title": "Currency Converter",
+    "baseCurrency": "Base Currency",
+    "targetCurrency": "Target Currency",
+    "convertedPrice": "Converted Price",
+    "lastUpdated": "Last Updated",
+    "fromCurrency": "From",
+    "toCurrency": "To",
+    "loading": "Loading exchange rates...",
+    "usdIntermediate": "Converted using USD as intermediate currency"
+  },
+  "taxInfo": {
+    "canRefund": "Tax Refundable",
+    "cannotRefund": "No Tax Refund",
+    "nonRefundable": "Non-refundable",
+    "refundable": "Refundable",
+    "refundRate": "Refund Rate",
+    "details": "Details",
+    "taxDetails": "Tax Details",
+    "refundStatus": "Refund Status",
+    "detailedDescription": "Detailed Description",
+    "noTaxInfo": "No tax information available",
+    "taxInfoUnavailable": "Tax Info: No data available",
+    "estimatedRefund": "Estimated Refund Amount"
+  },
+  "footer": {
+    "dataSource": "Data source: Community contributions via GitHub",
+    "contribute": "Contribute data via GitHub",
+    "lastUpdate": "Last updated"
+  },
+  "productLine": {
+    "title": "Product Lines",
+    "retry": "Retry",
+    "noData": "No product line data available",
+    "fallbackWarning": "Using fallback data, some product lines may not be available",
+    "error": {
+      "loadFailed": "Failed to load product line data"
+    },
+    "console": {
+      "loadingIndex": "Loading main index file:",
+      "indexData": "Index data:",
+      "loadSuccess": "Product lines loaded successfully:",
+      "noData": "No product line data found",
+      "loadError": "Failed to load product lines:",
+      "fallbackData": "Using fallback product line list"
+    }
+  }
+}

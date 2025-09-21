@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "苹果全球价格",
+    "subtitle": "比较苹果产品全球价格"
+  },
+  "common": {
+    "title": "苹果全球价格",
+    "language": "语言",
+    "theme": "主题",
+    "light": "浅色",
+    "dark": "深色",
+    "search": "搜索",
+    "filter": "筛选",
+    "reset": "重置",
+    "loading": "加载中...",
+    "noData": "暂无数据",
+    "results": "个结果",
+    "showingResults": "显示 {{count}} 个结果",
+    "selectAll": "全选",
+    "clearAll": "清空",
+    "allSelected": "全部已选",
+    "none": "无",
+    "values": "值",
+    "expand": "展开",
+    "collapse": "收起",
+    "ascending": "升序",
+    "descending": "降序",
+    "clear": "清空"
+  },
+  "header": {
+    "subtitle": "比较苹果产品全球价格"
+  },
+  "filters": {
+    "title": "筛选和搜索",
+    "searchPlaceholder": "搜索产品型号或国家...",
+    "product": "产品",
+    "model": "型号",
+    "storage": "存储容量",
+    "country": "国家/地区",
+    "currency": "货币",
+    "sortBy": "排序方式",
+    "allProducts": "所有产品",
+    "allModels": "所有型号",
+    "allStorage": "所有容量",
+    "allCountries": "所有国家",
+    "allCurrencies": "所有货币",
+    "priceAsc": "价格：低到高",
+    "priceDesc": "价格：高到低",
+    "modelAsc": "型号：A-Z",
+    "modelDesc": "型号：Z-A",
+    "countryAsc": "国家：A-Z",
+    "clearFilters": "清除筛选"
+  },
+  "secondaryFilters": {
+    "title": "二次筛选器",
+    "priceSort": "价格排序",
+    "superFilter": "超级筛选",
+    "totalPrice": "总价格",
+    "taxRefundPrice": "退税后价格",
+    "clear": "清空",
+    "ascending": "升序",
+    "descending": "降序"
+  },
+  "totalPrice": "总价格",
+  "taxRefundPrice": "退税后价格",
+  "productTable": {
+    "title": "产品价格",
+    "model": "型号",
+    "storage": "存储容量",
+    "netPrice": "净价格",
+    "taxFees": "税金",
+    "totalPrice": "总价",
+    "currency": "货币",
+    "launchDate": "上市时间",
+    "country": "国家/地区",
+    "taxRefund": "退税",
+    "contributor": "贡献者",
+    "notes": "备注",
+    "sortBy": "排序方式",
+    "ascending": "升序",
+    "descending": "降序",
+    "tax": "税费",
+    "productNotes": "产品备注"
+  },
+  "exchangeRate": {
+    "title": "汇率转换器",
+    "baseCurrency": "基准货币",
+    "targetCurrency": "目标货币",
+    "convertedPrice": "转换价格",
+    "lastUpdated": "最后更新",
+    "fromCurrency": "从",
+    "toCurrency": "到",
+    "loading": "加载汇率数据中...",
+    "usdIntermediate": "已使用美元作为联系汇率进行转换"
+  },
+  "taxInfo": {
+    "canRefund": "可退税",
+    "cannotRefund": "不可退税",
+    "refundRate": "退税比例",
+    "details": "详情",
+    "nonRefundable": "不可退税",
+    "refundable": "可退税", 
+    "taxDetails": "税务详情",
+    "refundStatus": "退税状态",
+    "detailedDescription": "详细说明",
+    "noTaxInfo": "无税务信息",
+    "taxInfoUnavailable": "税务信息: 暂无数据",
+    "estimatedRefund": "预计退税金额"
+  },
+  "footer": {
+    "dataSource": "数据来源：社区通过 GitHub 贡献",
+    "contribute": "通过 GitHub 贡献数据",
+    "lastUpdate": "最后更新"
+  },
+  "productLine": {
+    "title": "产品线",
+    "retry": "重试",
+    "noData": "暂无产品线数据",
+    "fallbackWarning": "使用备用数据，部分产品线可能不可用",
+    "error": {
+      "loadFailed": "无法加载产品线数据"
+    },
+    "console": {
+      "loadingIndex": "📖 ProductLineSelector: 加载主索引文件:",
+      "indexData": "📊 ProductLineSelector: 索引数据:",
+      "loadSuccess": "✅ ProductLineSelector: 产品线加载完成:",
+      "noData": "⚠️  ProductLineSelector: 未发现产品线数据",
+      "loadError": "❌ ProductLineSelector: 加载产品线失败:",
+      "fallbackData": "🔄 ProductLineSelector: 使用备用产品线列表"
+    }
+  }
+}

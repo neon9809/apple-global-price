@@ -1,0 +1,102 @@
+[
+  {
+    "code": "US",
+    "name_en": "United States",
+    "name_zh": "美国",
+    "name_local": "United States",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "variable",
+      "notes": "Sales tax varies by state. Tourists may be eligible for tax refunds in some states."
+    }
+  },
+  {
+    "code": "CN",
+    "name_en": "China",
+    "name_zh": "中国",
+    "name_local": "中国",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "13%",
+      "notes": "Foreign visitors can get a VAT refund on an iPhone in China if it is bought at a designated tax‑refund shop and taken out of the country with the required paperwork under the nationwide “immediate VAT refund” scheme."
+    }
+  },
+  {
+    "code": "JP",
+    "name_en": "Japan",
+    "name_zh": "日本",
+    "name_local": "日本",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "10%",
+      "notes": "Tourists can get a 10% consumption tax refund on purchases over ¥5,000."
+    }
+  },
+  {
+    "code": "GB",
+    "name_en": "United Kingdom",
+    "name_zh": "英国",
+    "name_local": "United Kingdom",
+    "tax_info": {
+      "can_refund": false,
+      "refund_rate": "N/A",
+      "notes": "No—tourists generally cannot get a VAT refund on an iPhone bought in-store in Great Britain since tax-free shopping was abolished in 2021, unless the retailer ships it directly overseas."
+    }
+  },
+  {
+    "code": "DE",
+    "name_en": "Germany",
+    "name_zh": "德国",
+    "name_local": "Deutschland",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "19%",
+      "notes": "VAT refund available for non-EU tourists on purchases over €25."
+    }
+  },
+  {
+    "code": "FR",
+    "name_en": "France",
+    "name_zh": "法国",
+    "name_local": "France",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "20%",
+      "notes": "VAT refund available for non-EU tourists on purchases over €175."
+    }
+  },
+  {
+    "code": "AU",
+    "name_en": "Australia",
+    "name_zh": "澳大利亚",
+    "name_local": "Australia",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "10%",
+      "notes": "GST refund available for tourists on purchases over AUD $300."
+    }
+  },
+  {
+    "code": "CA",
+    "name_en": "Canada",
+    "name_zh": "加拿大",
+    "name_local": "Canada",
+    "tax_info": {
+      "can_refund": false,
+      "refund_rate": "N/A",
+      "notes": "No general sales tax refund for tourists."
+    }
+  },
+  {
+    "code": "KR",
+    "name_en": "South Korea",
+    "name_zh": "韩国",
+    "name_local": "대한민국",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "10%",
+      "notes": "VAT refund available for tourists on purchases over KRW 30,000."
+    }
+  }
+]
+

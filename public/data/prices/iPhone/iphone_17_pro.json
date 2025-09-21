@@ -1,0 +1,569 @@
+[
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 8999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 10999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 12999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 9999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 11999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 13999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 17999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-19",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1099.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1299.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 1499.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1199.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1399.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 1599.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 2000.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 179800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 204800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 229800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 194800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 219800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 244800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 294800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-19",
+    "country_code": "JP",
+    "contributor": "Perplexly AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1099.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1299.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 1499.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1199.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1399.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 1599.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 1999.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-19",
+    "country_code": "UK",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1299.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1499.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 1699.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1449.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1649.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 1849.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 2249.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1299.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1499.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 1699.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1449.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1649.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 1849.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 2249.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-19",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1999.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 2349.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 2699.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 2199.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 2549.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 2899.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 3399.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-19",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1599.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1849.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 2099.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1749.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1999.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 2249.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 2749.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-19",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "256GB",
+    "retail_price": 1550000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "512GB",
+    "retail_price": 1780000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "storage": "1TB",
+    "retail_price": 2010000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "256GB",
+    "retail_price": 1940000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 2170000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "1TB",
+    "retail_price": 2400000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "2TB",
+    "retail_price": 2860000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-19",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  }
+]

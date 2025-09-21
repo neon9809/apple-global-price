@@ -1,0 +1,200 @@
+[
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 5999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-20",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 7999.0,
+    "currency": "CNY",
+    "launch_date": "2025-09-20",
+    "country_code": "CN",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 799.0,
+    "currency": "USD",
+    "launch_date": "2025-09-20",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 999.0,
+    "currency": "USD",
+    "launch_date": "2025-09-20",
+    "country_code": "US",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 129800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-20",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 164800.0,
+    "currency": "JPY",
+    "launch_date": "2025-09-20",
+    "country_code": "JP",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 799.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-20",
+    "country_code": "GB",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 999.0,
+    "currency": "GBP",
+    "launch_date": "2025-09-20",
+    "country_code": "GB",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 969.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-20",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 1219.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-20",
+    "country_code": "FR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 949.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-20",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 1199.0,
+    "currency": "EUR",
+    "launch_date": "2025-09-20",
+    "country_code": "DE",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 1399.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-20",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 1799.0,
+    "currency": "AUD",
+    "launch_date": "2025-09-20",
+    "country_code": "AU",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 1129.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-20",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 1429.0,
+    "currency": "CAD",
+    "launch_date": "2025-09-20",
+    "country_code": "CA",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "256GB",
+     
+     
+    "retail_price": 1290000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-20",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  },
+  {
+    "model": "iPhone 17",
+    "storage": "512GB",
+     
+     
+    "retail_price": 1650000.0,
+    "currency": "KRW",
+    "launch_date": "2025-09-20",
+    "country_code": "KR",
+    "contributor": "Perplexity AI"
+  }
+]

@@ -30,9 +30,9 @@
 
 ### 数据来源要求
 
-- **官方渠道**: 价格信息必须来自 Apple 官方网站或授权经销商
+- **官方渠道**: 价格信息必须来自 Apple 官方网站 不收录促销价格
 - **时效性**: 数据应该是最新的，建议在获取后 24 小时内提交
-- **准确性**: 确保价格、税费、货币等信息准确无误
+- **准确性**: 确保价格、货币等信息准确无误
 
 ### 添加新产品价格
 
@@ -43,36 +43,27 @@
 #### 价格数据格式示例
 
 ```json
-{
-  "model": "iPhone 17 Pro",
-  "storage": "256GB",
-  "net_price": 1099.0,
-  "tax_fees": 0.0,
-  "total_price": 1099.0,
-  "currency": "USD",
-  "launch_date": "2025-09-20",
-  "notes": "",
-  "country_code": "US",
-  "contributor": {
-    "name": "your_github_username",
-    "profile_url": "https://github.com/your_github_username",
-    "commit_date": "2025-09-20T10:00:00Z"
+  {
+    "model": "iPhone 17 Pro Max",
+    "storage": "512GB",
+    "retail_price": 1499.0,
+    "currency": "USD",
+    "launch_date": "2025-09-19",
+    "country_code": "US",
+    "contributor": "github.com/username"
   }
-}
 ```
 
 #### 字段说明
 
 - `model`: 产品型号（必填）
 - `storage`: 存储容量（必填）
-- `net_price`: 净价格，不含税（必填）
-- `tax_fees`: 税费金额（必填，无税费时填 0）
 - `total_price`: 消费者实际支付总价（必填）
 - `currency`: 货币代码，使用 ISO 4217 标准（必填）
 - `launch_date`: 发售日期，格式 YYYY-MM-DD（必填）
 - `notes`: 备注信息（可选）
 - `country_code`: 国家/地区代码，使用 ISO 3166-1 alpha-2 标准（必填）
-- `contributor`: 贡献者信息（自动生成）
+- `contributor`: 贡献者信息
 
 ### 更新现有价格
 
@@ -90,17 +81,38 @@
 #### 国家信息格式示例
 
 ```json
-{
-  "code": "US",
-  "name_en": "United States",
-  "name_zh": "美国",
-  "name_local": "United States",
-  "tax_info": {
-    "can_refund": true,
-    "refund_rate": "variable",
-    "notes": "Sales tax varies by state. Tourists may be eligible for tax refunds in some states."
+  {
+    "code": "CN",
+    "name_en": "China",
+    "name_zh": "中国",
+    "name_local": "中国",
+    "tax_info": {
+      "can_refund": true,
+      "refund_rate": "13%",
+      "notes": "Foreign visitors can get a VAT refund on an iPhone in China if it is bought at a designated tax‑refund shop and taken out of the country with the required paperwork under the nationwide “immediate VAT refund” scheme."
+    }
   }
-}
+```
+
+### 更新汇率
+五个基准货币：人民币、美元、欧元、英镑、日元
+无法直接转换时使用美元作为联系汇率
+```json
+  {
+    "base_currency": "CNY",
+    "date": "2025-09-21",
+    "rates": {
+      "USD": 0.1405,
+      "JPY": 20.7864,
+      "GBP": 0.1041,
+      "EUR": 0.1195,
+      "AUD": 0.2128,
+      "CAD": 0.1938,
+      "KRW": 196.174,
+      "HKD": 1.093,
+      "SGD": 0.1804
+    }
+  }
 ```
 
 ## 💻 代码贡献
